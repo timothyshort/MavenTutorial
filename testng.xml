@@ -4,7 +4,6 @@
   <test name="Test">
     <classes>
       <class name="examples.NewTest"/>
-      <class name="examples.SeleniumTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

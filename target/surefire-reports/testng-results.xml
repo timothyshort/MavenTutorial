@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7700" started-at="2017-07-13T16:56:20Z" finished-at="2017-07-13T16:56:28Z">
+  <suite name="Suite" duration-ms="16" started-at="2017-10-05T17:26:08Z" finished-at="2017-10-05T17:26:08Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7700" started-at="2017-07-13T16:56:20Z" finished-at="2017-07-13T16:56:28Z">
-      <class name="examples.SeleniumTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:examples.SeleniumTest@6bf256fa]" name="beforeMethod" is-config="true" duration-ms="2834" started-at="2017-07-13T12:56:20Z" finished-at="2017-07-13T12:56:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:examples.SeleniumTest@6bf256fa]" name="f" duration-ms="4081" started-at="2017-07-13T12:56:23Z" finished-at="2017-07-13T12:56:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:examples.SeleniumTest@6bf256fa]" name="afterMethod" is-config="true" duration-ms="751" started-at="2017-07-13T12:56:27Z" finished-at="2017-07-13T12:56:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- examples.SeleniumTest -->
+    <test name="Test" duration-ms="16" started-at="2017-10-05T17:26:08Z" finished-at="2017-10-05T17:26:08Z">
       <class name="examples.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:examples.NewTest@1554909b]" name="f" duration-ms="7" started-at="2017-07-13T12:56:20Z" finished-at="2017-07-13T12:56:20Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:examples.NewTest@17c68925]" name="f" duration-ms="0" started-at="2017-10-05T13:26:08Z" finished-at="2017-10-05T13:26:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
